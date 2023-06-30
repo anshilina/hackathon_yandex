@@ -1,6 +1,6 @@
 # Исследование LinkedIn
 
-**Для доступа к красивой визуализации моделей, рекомендуется ознакомиться по [ссылке](https://nbviewer.org/github/anshilina/hackathon_yandex/blob/main/topic_modelling_linkedin_mentors.ipynb).**
+## Для доступа к красивой визуализации моделей, рекомендуется ознакомиться по [ссылке](https://nbviewer.org/github/anshilina/hackathon_yandex/blob/main/topic_modelling_linkedin_mentors.ipynb)
 
 Проект был выполнен в рамках хаккатона Яндекс Практикума. Исследование посвящено теме наставничества, менторства, а также включает работу с профилем ЦА. 
 
