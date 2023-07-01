@@ -34,6 +34,8 @@
 
 *pandas, time, re, bs4, selenium, pycld2, pymystem3, nltk, gensim, pyLDAvis, matplotlib.pyplot, IPython, logging*
 
+Подробная информация о версиях библиотек доступна в файле **requirements.txt**.
+
 **Результаты исследования**
 
 *Топ-10 тем по ключевым словам.*
